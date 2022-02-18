@@ -1,6 +1,6 @@
 # Business Card With Flutter
 
-Displays business information 
+This app displays business information about me
 
 ## Getting Started
 
