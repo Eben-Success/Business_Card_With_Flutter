@@ -1,10 +1,17 @@
-# business_card_with_flutter
+# Business Card With Flutter
 
-Displays business information of me
+Displays business information 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is my first flutter app which displays business information of me.
+
+## Preview of the app
+
+The android version of the app looks like this:
+
+![Preview](https://user-images.githubusercontent.com/71809927/154599166-26d7606e-f4ef-41da-bd51-d9f70f0c7097.jpg)
+
 
 A few resources to get you started if this is your first Flutter project:
 
